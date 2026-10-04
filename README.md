@@ -7,6 +7,8 @@ Find duplicate files, identify large folders, spot empty directories, and analyz
 ![GitHub last commit](https://img.shields.io/github/last-commit/TashinParvez/drive_cleanup_scanner)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TashinParvez.drive_cleanup_scanner)
 
+<img width="1376" height="768" alt="img" src="https://github.com/user-attachments/assets/3a25aebd-de46-471d-a662-6c3b80f1f7ec" />
+
 A practical Python tool for disk cleanup, duplicate detection, and storage analysis. It scans a folder recursively, collects file metadata, checks for same-name files, detects exact duplicates by SHA-256 hash, highlights video files, finds empty folders, and exports a detailed HTML report for manual review.
 
 This project is especially useful for people who want to:
