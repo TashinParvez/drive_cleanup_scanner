@@ -2,10 +2,10 @@
 
 Find duplicate files, identify large folders, spot empty directories, and analyze storage usage across a drive or folder using Python.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/my-drive-scanner)
-![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/my-drive-scanner)
-![GitHub last commit](https://img.shields.io/github/last-commit/TashinParvez/my-drive-scanner)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TashinParvez.my-drive-scanner)
+![GitHub repo size](https://img.shields.io/github/repo-size/TashinParvez/drive_cleanup_scanner)
+![GitHub contributors](https://img.shields.io/github/contributors/TashinParvez/drive_cleanup_scanner)
+![GitHub last commit](https://img.shields.io/github/last-commit/TashinParvez/drive_cleanup_scanner)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TashinParvez.drive_cleanup_scanner)
 
 A practical Python tool for disk cleanup, duplicate detection, and storage analysis. It scans a folder recursively, collects file metadata, checks for same-name files, detects exact duplicates by SHA-256 hash, highlights video files, finds empty folders, and exports a detailed HTML report for manual review.
 
@@ -227,15 +227,6 @@ This project is available for personal and educational use.
 
 ---
 
-## Author
-
-**Md. Tashin Parvez** – CSE Student & Competitive Programmer
-
-- 🌐 [GitHub](https://github.com/TashinParvez)
-- 📖 [Blog](https://tashinparvez.hashnode.dev/)
-
----
-
 ## Contact Me
 
 Reach out for questions, suggestions, or feedback:
@@ -247,30 +238,8 @@ Reach out for questions, suggestions, or feedback:
   <a href="https://linkedin.com/in/tashinparvez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@tashinparvez" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
 
-#### 🏆 Competitive Programming Profiles
-
-<p align="left">
-  <a href="https://codeforces.com/profile/tashin.parvez" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/tashinparvez/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/tashinparvez?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/tashinparvez" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://www.codechef.com/users/tashin_parvez" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
 
 ---
 
